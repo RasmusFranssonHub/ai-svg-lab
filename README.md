@@ -19,7 +19,7 @@ For animations the project uses:
 
 The animations are controlled using JavaScript timelines to create smooth and dynamic visual effects throughout the landing page.
 
-The project was developed primarily for desktop viewing due to the limited scope and timeframe of the assignment, since it was intended to be a smaller and shorter project.
+The project was developed primarily for desktop (1440 x 1024) viewing due to the limited scope and timeframe of the assignment, since it was intended to be a smaller and shorter project.
 
 
 ______________________________________________________________________________________
