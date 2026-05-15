@@ -7,13 +7,13 @@ body {
 
 .hero-content {
   text-align: center;
-  min-height: 100dvh;
+  min-height: 90dvh;
 
   display: flex;
   flex-direction: column;
   justify-content: center;
 
-  transform: translateY(-40px);
+  transform: translateY(-180px);
 }
 
 //================================
@@ -41,17 +41,16 @@ body {
 //================================
 .chips-wrap {
   position: relative;
-  width: 320px;
-  height: 140px;
+  width: 360px;
+  height: 115px;
 }
 
 .chips-wrap img {
   display: block;
-  height: 140px;
+  height: 130px;
 }
  
 
-// båda SVG exakt ovanpå varandra
 .chips-yellow img,
 .chips-red img {
   position: absolute;
@@ -59,12 +58,10 @@ body {
   left: 0;
 }
 
-// gul visas först
 .chips-yellow {
   opacity: 1;
 }
 
-// röd gömd först
 .chips-red {
   opacity: 0;
 }

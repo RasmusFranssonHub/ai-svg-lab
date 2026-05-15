@@ -31,6 +31,9 @@
       font-size: 26px;
       letter-spacing: 0.08em;
       padding-top: 9px;
+      &:hover {
+        text-decoration: underline;
+      }
     }
 
     .btn-order {
